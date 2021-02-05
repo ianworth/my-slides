@@ -2,5 +2,7 @@
 
 ## tl;dr
 
-   yarn
-   yarn dev
+```sh
+yarn
+yarn dev
+```
